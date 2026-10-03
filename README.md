@@ -37,11 +37,7 @@ Below are the architectural models and design diagrams created using StarUML to 
 
 ---
 
-## 🛠️ Technologies Used
-* **Modeling Tool:** StarUML
-* **Frontend:** [e.g., HTML5, CSS3, JavaScript / React]
-* **Backend:** [e.g., Node.js / Python / Java]
-* **Database:** [e.g., MySQL / PostgreSQL / MongoDB]
+
 
 ## 📁 How to View the Diagrams
 1. **As Images:** You can view the exported `.png` or `.jpeg` files directly above in this README or inside the `diagrams/` folder.
