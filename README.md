@@ -39,6 +39,6 @@ Below are the architectural models and design diagrams created using StarUML to 
 
 
 
-## 📁 How to View the Diagrams
+## 📁 How to View the Diagram
 1. **As Images:** You can view the exported `.png` or `.jpeg` files directly above in this README or inside the `diagrams/` folder.
 2. **In StarUML:** Download the source file (e.g., `passport_management.mdj`) from this repository and open it using the **StarUML** desktop application.
