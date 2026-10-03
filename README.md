@@ -18,7 +18,7 @@ Below are the architectural models and design diagrams created using StarUML to 
 ### 1. Use Case Diagram
 *Describes the functional requirements of the system and how different actors (Applicant, Admin, Passport Officer) interact with it.*
 
-![Use Case Diagram](./use%20case.png)
+![Use Case Diagram](./UseCaseDiagram1.png)
 
 ### 2. Class Diagram
 *Shows the object-oriented structure of the system, including classes, attributes, methods, and relationships.*
@@ -28,7 +28,7 @@ Below are the architectural models and design diagrams created using StarUML to 
 ### 3. Sequence Diagram
 *Illustrates the chronological interaction and message flow between objects during the application process.*
 
-![Sequence Diagram](./Sequence Diagram.png)
+![Sequence Diagram](./SequenceDiagram1.png)
 
 ### 4. Entity-Relationship Diagram (ERD)
 *Maps out the database schema, showing tables like Users, Applications, Documents, and Appointments.*
